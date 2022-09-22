@@ -1,0 +1,7 @@
+{
+  "name": "digi3d-rpc",
+  "version-string": "22.0.0.0",
+  "dependencies": [
+    "tiff"
+  ]
+}
